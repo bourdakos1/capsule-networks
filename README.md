@@ -1,4 +1,4 @@
-# capsule-networks
+# Capsule Networks
 A Tensorflow implementation of Capsule Networks
 
 For more information on Capsule Networks please read my [Medium article](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952).
