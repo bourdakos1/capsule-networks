@@ -15,11 +15,12 @@ Start training!
 python main.py
 ```
 
-## Making Inferences
+## Testing Accuracy
 ```bash
 python main.py --is_training False
 ```
 
 ## Visualization
 The model generated from training with this implementation can be used with this [Visualization Tool](https://github.com/bourdakos1/CapsNet-Visualization) I built.
+
 ![](https://github.com/bourdakos1/CapsNet-Visualization/raw/master/readme/4.gif)
