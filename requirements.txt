@@ -1,3 +1,2 @@
-tensorflow
 tqdm==4.19.4
 scipy==1.0.0
